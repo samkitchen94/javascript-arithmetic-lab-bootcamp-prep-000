@@ -28,8 +28,8 @@ function dec(n) {
 }
 dec(n)
 
-function makeIntparseInt("0x") {
-  return 
+function makeInt(n) {
+  return  parseInt("0*2328", 10)
 }
 makeInt(n)
 
