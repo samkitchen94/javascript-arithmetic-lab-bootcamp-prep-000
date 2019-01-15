@@ -22,3 +22,7 @@ function inc(n) {
 return n+1
 }
 inc(n)
+
+function dec(n) {
+  return
+}
