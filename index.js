@@ -18,4 +18,7 @@ function divide(x, y) {
 }
   divide(5.0,2.5)
 
-
+function inc(n) {
+return n+1
+}
+inc(n)
