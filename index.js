@@ -29,7 +29,7 @@ function dec(n) {
 dec(n)
 
 function makeInt(n) {
-  return  parseInt("", 10)
+  return  parseInt("0*2328", 10)
 }
 makeInt(n)
 
