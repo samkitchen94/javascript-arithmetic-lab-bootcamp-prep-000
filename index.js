@@ -24,5 +24,7 @@ return n+1
 inc(n)
 
 function dec(n) {
-  return
+  return n-1
 }
+
+dec(n)
